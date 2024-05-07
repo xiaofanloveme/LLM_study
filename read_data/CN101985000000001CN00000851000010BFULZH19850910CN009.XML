@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE business:PatentDocumentAndRelated SYSTEM "/DTDS/ExternalStandards/ipphdb-entities.dtd"[]>
+<business:PatentDocumentAndRelated xmlns:base="http://www.sipo.gov.cn/XMLSchema/base" xmlns:business="http://www.sipo.gov.cn/XMLSchema/business" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:tbl="http://oasis-open.org/specs/soextblx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sipo.gov.cn/XMLSchema/business /DTDS/PatentDocument/Elements/OtherElements.xsd" xsdVersion="V2.2.1" file="CN101985000000001CN00000851000010BFULZH19850910CN009.XML" dateProduced="20171212" status="C" lang="zh" country="CN" docNumber="85100001" kind="B" datePublication="19850910">
+  <business:BibliographicData>
+    <business:PublicationReference dataFormat="original" sourceDB="national office" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>85100001</base:DocNumber>
+        <base:Kind>B</base:Kind>
+        <base:Date>19850910</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:PublicationReference dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>85100001</base:DocNumber>
+        <base:Kind>B</base:Kind>
+        <base:Date>19850910</base:Date>
+      </base:DocumentID>
+    </business:PublicationReference>
+    <business:ApplicationReference applType="10" dataFormat="original" sequence="1" sourceDB="national office">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>85100001</base:DocNumber>
+        <base:Date>19850401</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ApplicationReference applType="10" dataFormat="standard" sequence="1">
+      <base:DocumentID>
+        <base:WIPOST3Code>CN</base:WIPOST3Code>
+        <base:DocNumber>101985000000001</base:DocNumber>
+        <base:Date>19850401</base:Date>
+      </base:DocumentID>
+    </business:ApplicationReference>
+    <business:ClassificationIPC>
+      <base:EditionStatement>4</base:EditionStatement>
+      <business:MainClassification dataFormat="original">G02B27/46</business:MainClassification>
+      <business:MainClassification dataFormat="standard">G02B0027460000</business:MainClassification>
+      <business:FurtherClassification sequence="1" dataFormat="original">G03B33/0611</business:FurtherClassification>
+      <business:FurtherClassification sequence="1" dataFormat="standard">G03B0033061100</business:FurtherClassification>
+      <base:Text>//G02B5/18</base:Text>
+    </business:ClassificationIPC>
+    <business:InventionTitle lang="zh" dataFormat="original" sourceDB="national office" processingType="original" creator="03">可变光学滤波实时假彩色显示装置</business:InventionTitle>
+    <business:Parties>
+      <business:ApplicantDetails representative="1">
+        <business:Applicant sequence="1" appType="applicant" dataFormat="original" sourceDB="national office" lang="zh" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>航天工业部第二研究院二○七所</base:Name>
+            <base:Address>
+              <base:AddressLine>0</base:AddressLine>
+              <base:AddressMailCode>0</base:AddressMailCode>
+              <base:PostBox>0</base:PostBox>
+              <base:AddressRoom>0</base:AddressRoom>
+              <base:AddressFloor>0</base:AddressFloor>
+              <base:AddressBuilding>0</base:AddressBuilding>
+              <base:Street>0</base:Street>
+              <base:AddressCity>0</base:AddressCity>
+              <base:County>海淀区</base:County>
+              <base:City>市辖区</base:City>
+              <base:Province>北京市</base:Province>
+              <base:PostCode>0</base:PostCode>
+              <base:WIPOST3Code>CN</base:WIPOST3Code>
+              <base:Text>北京市海淀区永定路4号</base:Text>
+            </base:Address>
+          </base:AddressBook>
+          <business:OrganizationCode createDate="00000000" creator="00">0000000000</business:OrganizationCode>
+        </business:Applicant>
+      </business:ApplicantDetails>
+      <business:InventorDetails>
+        <business:Inventor sequence="1" dataFormat="original" sourceDB="national office" lang="zh" publicationMark="0" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>杨治贵</base:Name>
+          </base:AddressBook>
+        </business:Inventor>
+        <business:Inventor sequence="2" dataFormat="original" sourceDB="national office" lang="zh" publicationMark="0" creator="03" processingType="original">
+          <base:AddressBook lang="zh">
+            <base:Name>胡国华</base:Name>
+          </base:AddressBook>
+        </business:Inventor>
+      </business:InventorDetails>
+      <business:AgentDetails>
+        <business:CustomerNumber>00000</business:CustomerNumber>
+        <business:Agent sequence="1" lang="zh" dataFormat="original" sourceDB="national office" repType="agent" processingType="original" creator="03">
+          <business:Agency>
+            <base:AddressBook lang="zh">
+              <base:OrganizationName>航天工业部第二研究专利代理事务所</base:OrganizationName>
+            </base:AddressBook>
+          </business:Agency>
+          <base:AddressBook lang="zh">
+            <base:Name>马文良</base:Name>
+          </base:AddressBook>
+        </business:Agent>
+      </business:AgentDetails>
+    </business:Parties>
+  </business:BibliographicData>
+  <business:Abstract dataFormat="original" lang="zh" sourceDB="national office" processingType="original" creator="03">
+    <base:Paragraphs num="0001">可变光学滤波实时假彩色显示装置是一种现代光学图象处理技术。为实现实时显示按空间频率特征增强的假彩色图象，在标准的或变形的白光付立叶光学系统中，周期地连续改变照明光的颜色和空间滤波方式。一种实现方法是在滤波平面上加上旋转滤波器。旋转滤波器上制有不同张角的红、绿、兰三色滤片和低通、高通、全通滤波器。本发明应用于图像处理仪和显微镜等投影式光学仪器中，可取得增强图像的效果。</base:Paragraphs>
+    <base:Paragraphs num="0002" />
+    <business:AbstractFigure>
+      <base:Figure num="0001">
+        <base:Image he="84" wi="168" file="85100001_IMG1.TIF" imgContent="undefined" imgFormat="TIFF" />
+      </base:Figure>
+    </business:AbstractFigure>
+  </business:Abstract>
+  <business:Description lang="zh" dataFormat="original" sourceDB="national office" creator="03">
+    <business:InventionTitle>可变光学滤波实时假彩色显示装置</business:InventionTitle>
+    <base:Paragraphs id="p1" num="n1">本发明是一种现代光学图象处理技术。</base:Paragraphs>
+    <base:Paragraphs id="p2" num="n2">现有的对图象按空间频率特征的实时假彩色显示，均采用空间合成的方法，如《光学学报》1983年第三卷第4期所载《空间滤波实时频谱与密度假彩色编码》一文所述的方法。本项发明的发明者曾在改变照明光的颜色的同时改变光学空间的滤波方式，对彩色相纸三次曝光，获得随时间平均合成的假彩色图象。但是，这种方法不能快速地在观察记录手段容许的范围内实时显示出假彩色图象。</base:Paragraphs>
+    <base:Paragraphs id="p3" num="n3">本发明的任务是要实时显示按空间频率特征增强的假彩色图象。</base:Paragraphs>
+    <base:Paragraphs id="p4" num="n4">本发明的任务是以如下的方法完成的：在标准的或变形的白光付立叶光学系统中，周期性地连续改变照明光的颜色和空间滤波方式，使输出图象在人眼视觉暂留时间范围内，平均合成实时显示的假彩色图象。一种方法是在滤波平面上设置一个连续旋转的“旋转滤波器”。旋转滤波器上具有不同张角的三色滤色片和低通、高通、全通滤波器。当旋转滤波器连续旋转时，就在输出象面上显示出按空间频率特征增强的假彩色图象。</base:Paragraphs>
+    <base:Paragraphs id="p5" num="n5">以下将结合附图对发明作进一步的详细描述： </base:Paragraphs>
+    <base:Paragraphs id="p6" num="n6">图1为实施本方法的一种光学系统。</base:Paragraphs>
+    <base:Paragraphs id="p7" num="n7">图2为一种旋转滤波器。</base:Paragraphs>
+    <base:Paragraphs id="p8" num="n8">参照图1，白光点光源〔1〕发出的光经透镜〔2〕、〔3〕会聚成象后，由光栏〔4〕射出，由付立叶变换式透镜〔5〕聚光照明输入图象〔6〕。成象透镜〔7〕将输入象成象于输出象面〔11〕上。透镜〔5〕将光栏〔4〕成象于平面〔8〕上，平面〔8〕即为滤波平面。在滤波平面上，放置由电机〔10〕经传动机构〔9〕带动的旋转滤波器〔12〕。当旋转滤波器〔12〕连续旋转时，在输出象面〔11〕上实时显示出假彩色图象。</base:Paragraphs>
+    <base:Paragraphs id="p9" num="n9">图2是一种带有滤色片和光学空间滤波光栏的圆盘。它用金属或非金属盘圆制成。是旋转滤波器的一种。金属圆盘中心孔〔17〕固定在驱动圆盘旋转的传动机构上。扇形区域〔16〕内装有兰色光学玻璃滤色片，它沿圆盘直径方向的宽度等同于图1所示变形付立叶光学系统频谱面的有效直径;区域〔13〕为红色光学玻璃滤色片镶嵌的弧形缝;区域〔14〕由绿色光学玻璃滤色片构成。其上贴有不透光的半圆环形金属片〔15〕。区域〔16〕、〔13〕、〔14〕在圆盘上占有的角度比例可以调节，以便控制假彩色图象的颜色对比。</base:Paragraphs>
+    <base:Paragraphs id="p10" num="n10">区域〔16〕、〔13〕、〔14〕可以制成各种不同比例。并且滤波器的形式和滤色片的颜色有多种组合，更换圆盘可以使假彩色象有不同的颜色对比。旋转滤波器上的彩色滤色片和滤波器的遮挡物，也可以是在玻璃圆盘上分区镀制干涉滤光膜，再复盖挡光金属膜而制成。 </base:Paragraphs>
+    <base:Paragraphs id="p11" num="n11">在白光点光源照明的标准或变形的付立叶光学系统中，无论照明输入象采用平行光、发散光或会聚光，滤波器均应放在起付立叶变换作用的透镜组所成的光栏象的平面上，滤波器上透光和不透光的环形区域宽度应不小于光栏象直径，并在旋转过程中，始终对准光栏象点。</base:Paragraphs>
+    <base:Paragraphs id="p12" num="n12">实现本发明的最好实用例有两种：</base:Paragraphs>
+    <base:Paragraphs id="p13" num="n13">1.应用于图1所示的图象放大处理系统，例如具有实时显示假彩色图象功能的付立叶光学精密导轨系统及类似的系统中，可将卫星、航空等遥感图象及电镜、显微镜图象显示为放大的假彩色图象。</base:Paragraphs>
+    <base:Paragraphs id="p14" num="n14">2.在中、高档显微镜中，将照明方式改为点光源发光直射照明形式，加置“旋转滤波器”直接获得样品的假彩色增强图。</base:Paragraphs>
+    <base:Paragraphs id="p15" num="n15" />
+  </business:Description>
+  <business:Drawings lang="zh" sourceDB="national office">
+    <base:Figure id="f2" num="0002">
+      <base:Image id="if2" he="700" wi="499" file="85100001_DRIMG1.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+    <base:Figure id="f3" num="0003">
+      <base:Image id="if3" he="700" wi="499" file="85100001_DRIMG2.TIF" imgContent="drawing" imgFormat="TIFF" orientation="portrait" inline="no" />
+    </base:Figure>
+  </business:Drawings>
+  <business:Claims lang="zh" dataFormat="original" sourceDB="national office" creator="03">
+    <business:Claim id="c1" num="c1">
+      <business:ClaimText>1、1.一种由白光点光源〔1〕、透镜〔2〕、〔3〕、光栏〔4〕、付立叶变换式透镜〔5〕、输入图象〔6〕、成象透镜〔7〕、输出象面〔11〕组成的实时显示假彩色装置，其特征是在滤波平面〔8〕放置由驱动装置带动旋转的旋转滤波器〔12〕，旋转滤波器〔12〕上具有不同张角的三色滤色片和低通、高通、全通滤波器。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="c2" num="c2">
+      <business:ClaimText>2、按权项1所规定的实时显示假彩色装置，其特征是旋转滤波器〔12〕是在金属或非金属园盘上划分不同的区域，扇形区域〔16〕内装有兰色的光学玻璃滤色片，沿园盘直径方向的宽度等同于变形付立叶光学系统频谱面的有效直径，区域〔13〕为红色光学玻璃滤色片镶嵌的弧形缝，区域〔14〕由绿色光学玻璃滤色片构成，其上贴有不透光的半圆环形金属片〔15〕，区域〔16〕、〔13〕、〔14〕在园盘上占有的角度可以有不同的比例，旋转滤波器上彩色滤色片和滤波器的遮挡物可以是在玻璃园盘上分区镀制干涉滤光膜，再复盖挡光金属膜而制成。</business:ClaimText>
+    </business:Claim>
+    <business:Claim id="c3" num="c3">
+      <business:ClaimText>3、按权项1、2所规定的实时显示假彩色装置，其特征是旋转滤波器〔12〕上透光和不透光的环形区域宽度不小于光栏象直径，并在旋转过程中始终对准光栏象点。</business:ClaimText>
+    </business:Claim>
+  </business:Claims>
+</business:PatentDocumentAndRelated>
