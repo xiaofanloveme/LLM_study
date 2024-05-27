@@ -1,0 +1,10 @@
+{
+    "prompts":[
+"prompt: Please give detailed process and final answer. please teach me how to calculate 3*7+7 ?",
+"Please give a brief overview of Newton's laws",
+"How to judge whether a system of equations has a unique solution?",
+"How do I find the rank of a matrix?",
+"请给出具体求解过程和最终答案. 全民健身中心有一个长方形游泳池,长比宽长30米,如果把这个游泳池扩建成一个最小的正方形,面积就增加2100平方米,请问原来游泳池的面积是多少平方米?",
+"What is a recurrent neural network?"
+]
+}
